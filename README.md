@@ -334,9 +334,9 @@ This SQL course is **Phase 1** of 5. Here is the full roadmap:
 ```
 Phase 1 ──▶ SQL for Data & AI          (you are here)
 Phase 2 ──▶ Microsoft Fabric           (complete data platform)
-Phase 3 ──▶ Python for Data Pros       (Python via SQL mental models)
-Phase 4 ──▶ 90 Days: BI to AI Engineer (ML → Deep Learning → LLMs → RAG)
-Phase 5 ──▶ Standalone Deep-Dives      (ADF · DAX · Power BI · AI tools)
+Phase 3 ──▶ Standalone Deep-Dives      (ADF · DAX · Power BI · AI tools)
+Phase 4 ──▶ Python for Data Pros       (Python via SQL mental models)
+Phase 5 ──▶ BI to AI Engineer          (ML → Deep Learning → LLMs → RAG)
 ```
 
 Everything is free. Everything is on GitHub. Subscribe to be notified when each phase launches.
